@@ -1,4 +1,5 @@
- 1. What is Semantic HTML? it is a markup language that intros meaning to web page
+ URL for TL: https://codepen.io/parkster246/pen/JjGjYae?editors=1100
+ . What is Semantic HTML? it is a markup language that intros meaning to web page
     2. What is HTML used for? html is used to give meaning to web page rather than just presentation
     3. What is an attribute and where do we put it? defines additional properties of the element. specified in the opening tag
     4. What is the h1 tag used for? How many times should I use it on a page? used for title post. once
