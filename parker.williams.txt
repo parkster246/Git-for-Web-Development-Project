@@ -35,7 +35,7 @@
     35. How often should I commit to github?
     36. What is the command we would use to push our repo up to github? 
     37. Walk me through Lambda's git flow. 
-
+done 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
